@@ -52,5 +52,6 @@ Thank you for visiting this repository and taking the time to explore my work. I
 Best regards,
 
 Mridul Kaushik
+
 CodSoft Intern
 
