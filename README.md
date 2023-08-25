@@ -51,7 +51,6 @@ Thank you for visiting this repository and taking the time to explore my work. I
 
 Best regards,
 
-[Your Name]
+Mridul Kaushik
 CodSoft Intern
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-Email: [your-email@example.com](mailto:your-email@example.com)
+
