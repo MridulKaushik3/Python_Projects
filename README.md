@@ -47,7 +47,7 @@ All projects were developed with a user-centric approach, focusing on creating e
 
 To explore each project, navigate to their respective directories within this repository. Detailed instructions for setting up and running the applications are provided in each project's README file.
 
-Thank you for visiting this repository and taking the time to explore my work. If you have any questions, feedback, or collaboration inquiries, please feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+Thank you for visiting this repository and taking the time to explore my work. If you have any questions, feedback, or collaboration inquiries, please feel free to contact me at kaushikmridul3@gmail.com.
 
 Best regards,
 
