@@ -1,7 +1,3 @@
-Certainly! Here’s a revised version of your project repository, with the projects framed as personal practice projects in Python instead of an internship:
-
----
-
 # Python Project Repository
 
 Welcome to my Python Project Repository! In this repository, you will find three distinct projects that I developed to enhance my programming skills: a calculator, a to-do list application, and a password generator. Each project reflects my commitment to coding best practices, user-focused design, and delivering high-quality software solutions.
